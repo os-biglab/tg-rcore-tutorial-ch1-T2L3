@@ -1,7 +1,7 @@
 [package]
 name = "tg-rcore-tutorial-ch1-t2l3"
 description = "Chapter 1 T2L3: minimal no_std RISC-V S-mode demo with legacy VirtIO block read/write verification"
-version = "0.0.1-preview.1"
+version = "0.0.1-preview.2"
 edition = "2024"
 authors = ["Feiran Qin <qfr23@mails.tsinghua.edu.cn>"]
 repository = "https://github.com/os-biglab/tg-rcore-tutorial-ch1-T2L3"
